@@ -1,0 +1,9 @@
+# npm packages
+node_modules/
+
+# Ignore the debug/error logs
+npm-debug.log
+yarn-error.log
+
+# Ignore the output folders
+/lib
