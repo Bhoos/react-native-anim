@@ -1,6 +1,6 @@
 {
   "name": "react-native-anim",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An animation driver for higher level components",
   "main": "lib/index.js",
   "repository": "git@github.com:bhoos/react-native-anim.git",
